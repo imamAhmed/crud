@@ -15,7 +15,7 @@
 		}
 		///////////////
 
-		//use for MySQLi Procedural
+		//use for MySQLi Procedural dgh
 		// if(mysqli_query($conn, $sql)){
 		// 	$_SESSION['success'] = 'Member updated successfully';
 		// }
